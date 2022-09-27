@@ -1,0 +1,9 @@
+﻿  projekt.cpp
+c:\users\lenovo\source\repos\project md\project md\projekt.cpp(167): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lenovo\source\repos\project md\project md\projekt.cpp(171): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lenovo\source\repos\project md\project md\projekt.cpp(175): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lenovo\source\repos\project md\project md\projekt.cpp(233): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lenovo\source\repos\project md\project md\projekt.cpp(238): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lenovo\source\repos\project md\project md\projekt.cpp(242): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\lenovo\source\repos\project md\project md\projekt.cpp(250): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Project MD.vcxproj -> C:\Users\Lenovo\source\repos\Project MD\Debug\Project MD.exe
